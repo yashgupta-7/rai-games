@@ -1,0 +1,14 @@
+python>=3.8.0
+numpy>=1.19.0
+pandas>=1.1.3
+pillow>=7.2.0
+pytorch>=1.8.0
+torchvision>=0.9.0
+scipy>=1.5.2
+tqdm>=4.53.0
+pytz>=2020.4
+outdated>=0.2.0
+ogb>=1.2.3
+cvxpy>=1.1.12
+mosek>=9.2.40
+matplotlib>=3.3.2
